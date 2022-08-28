@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Merhaba 👋, Ben Yasin</h1>
+<h1 align="center">Hello 👋, I'm Yasin</h1>
 <h3 align="center">Backend Developer</h3>
 
 
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/yasinnaysann" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasinnaysann" height="30" width="30" /></a>  
 <a href="https://www.hackerrank.com/yaysan00" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yaysan00" height="30" width="30" /></a>  
 <a href="https://www.linkedin.com/in/yasin-aysan/" target="blank"><img align="left" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="yasinaysann" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/17826076/yasin-aysan" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="30" width="30" /></a>
   <h1 align="left"></h1>
 </a>
 </p>
