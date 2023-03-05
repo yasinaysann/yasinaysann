@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java, Spring Boot<br>🌱 I’m currently learning JavaScript, React<br>💬 Ask me about Java, Spring Boot<br>👯 I’m looking to collaborate on any Java projects<br><br>
+🔭 I’m currently working on Java, Spring Boot<br>💬 Ask me about Java, Spring Boot<br>👯 I’m looking to collaborate on any Java projects<br><br>
 
 
 ## 🌐 Socials:
